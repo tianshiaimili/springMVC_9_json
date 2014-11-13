@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Z_springMVC_9_json"
+  id="myeclipse.1350699628843"
+  context-root="/sj"
+  j2ee-spec="5.0"
+  archive="Z_springMVC_9_json.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
